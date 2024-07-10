@@ -46,6 +46,10 @@ nav li a{
     font-weight: 700px;
     padding: 12px 20px;
 }
+.btn-main a{
+    text-decoration: none;
+    color: rgba(13, 19, 33, 1);
+}
 /* Banner styles */
 .banner {
     text-align: center;
