@@ -134,3 +134,40 @@ nav li a{
 .radious-1{
     border-radius: 16px;
 }
+/* Target Section */
+.target-section{
+margin-top: 150px;
+margin-left: 151px;
+margin-right: 151px;
+margin-bottom: 111px;
+}
+.common-block1{
+    display: flex;
+    margin-top: 48px;
+}
+
+.common-heading{
+    text-align: center;
+}
+
+.html-block{
+margin-right: 24px;
+background-color: rgba(255, 76, 30, 0.05);
+border-radius: 16px;
+}
+.css-block{
+margin-right: 24px;
+background-color: rgba(0, 76, 232, 0.05);
+border-radius: 16px;
+}
+.java-block{
+background-color: rgba(255, 223, 0, 0.05);
+border-radius: 16px;
+}
+.target-paragraph{
+    margin-top: 24px;
+}
+.target-heading{
+    font-size: 32px;
+    font-weight: 800;
+}
